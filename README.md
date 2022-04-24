@@ -1,6 +1,6 @@
 ## 13 Object-Relational Mapping (ORM): E-ComerceBackEnd
-## Deployed link video:
- [link video](https://drive.google.com/file/d/1zXRsYZTOdZwI6zcQfaFIUEu5qCbp8x_O/view?usp=sharing)
+
+ Deployed Video: https://drive.google.com/file/d/1zXRsYZTOdZwI6zcQfaFIUEu5qCbp8x_O/view?usp=sharing
 
 ## Description
 E-commerce or electronic commerce is the distribution, sale, purchase, marketing and supply of information of products or services through the Internet.
