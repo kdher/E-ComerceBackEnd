@@ -55,6 +55,6 @@ THEN I am able to successfully create, update, and delete data in my database
 * Insomnia
 
 ## Mock-Up
-
+![image](./Assets/image.png)
 ## Licencia
 [![license](https://img.shields.io/badge/license-MIT-blue)](https://shields.io)
